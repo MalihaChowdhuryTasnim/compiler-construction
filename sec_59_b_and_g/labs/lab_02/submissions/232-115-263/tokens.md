@@ -1,8 +1,9 @@
 # Lab 02 token inventory
 Student ID: 232-115-263
-Section: sec_59_b_and_g
+Section: G
 
 ## Token sequence for public.c
+```text
 int,KEYWORD
 main,IDENTIFIER
 (,DELIMITER
@@ -60,3 +61,4 @@ return,KEYWORD
 ;,DELIMITER
 },DELIMITER
 },DELIMITER
+```
